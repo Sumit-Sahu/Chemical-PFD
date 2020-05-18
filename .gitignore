@@ -1,2 +1,5 @@
-.idea/
-__pycache__/
+*.pyc
+src/main/python/experimental/*
+*.pfd
+.vscode
+.vscode/*.json
